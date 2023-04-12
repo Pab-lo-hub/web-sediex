@@ -1,0 +1,9 @@
+# Grupo 1
+User-agent: Googlebot
+Disallow: /vieja/
+
+# Grupo 2
+User-agent: *
+Allow: /
+
+Sitemap: http://www.sediex.com.ar/sitemap.xml
