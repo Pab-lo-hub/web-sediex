@@ -84,7 +84,7 @@ header('Content-Type: text/html; charset=UTF-8'); ?>
                   <li class="dropdown-submenu">
                     <a tabindex="-1" href="scanners.html">Scanners</a>
                     <ul class="dropdown-menu">
-                      <li><a href="alaris.html">Alaris</a></li>
+                      <li><a href="kodak.html">Kodak</a></li>
                       <li><a href="brother.html">Brother</a></li>
                       <li><a href="canon.html">Canon</a></li>
                       <li><a href="iris.html">Iris</a></li>
@@ -131,14 +131,14 @@ header('Content-Type: text/html; charset=UTF-8'); ?>
           <li>
             <img src="img/slides/slide1.jpg" alt="Fondo de Escaner" />
             <div class="captions v3">
-              <div class="logoslide"> <img src="img/slides/logoalaris.png" alt="Logo Alaris"></div>
+              <div class="logoslide"> <img src="img/slides/logokodak.png" alt="Logo Kodak"></div>
               <h4 class="subtitle"><a href="productos/s2000w.html">S2060W</a></h4>
               <p class="description">Gran velocidad 60ppm <br>Conectividad USB, Ethernet y Wifi <br>
                 Scanner A4 versátil, confiable que le permitirá un uso compartido entre varios puestos de trabajo</p>
 
             </div> <!-- end captions -->
             <div class="slider-images v2">
-              <img src="img/slides/s2060w.png" alt="Escaner Alaris S2060W" />
+              <img src="img/slides/s2060w.png" alt="Escaner Kodak S2060W" />
             </div> <!-- end images -->
 
 
@@ -209,14 +209,14 @@ header('Content-Type: text/html; charset=UTF-8'); ?>
           </li>
           <li> <img src="img/slides/slide1.jpg" alt="Fondo de Escaner" />
             <div class="captions v2">
-              <div class="logoslide"> <img src="img/slides/logoalaris.png" alt="Logo de Alaris"></div>
+              <div class="logoslide"> <img src="img/slides/logokodak.png" alt="Logo de Kodak"></div>
               <h4 class="subtitle"><a href="productos/s3060.html"><span id="minus">s3060/s3100/s3120</span></a></h4>
               <p class="description">Los escáneres KODAK de la serie s3000 están especialmente fabricados<br> para ofrecer resultados uniformes y minimizar los tiempos<br> de inactividad de su oficina.
               </p>
 
             </div> <!-- end captions -->
             <div class="slider-images">
-              <img src="img/slides/S3060.png" alt="Escaner Alaris s3060" />
+              <img src="img/slides/S3060.png" alt="Escaner Kodak s3060" />
             </div> <!-- end images -->
           </li>
           <li>
@@ -234,14 +234,14 @@ header('Content-Type: text/html; charset=UTF-8'); ?>
           </li>
           <li> <img src="img/slides/slide1.jpg" alt="Fondo de Escaner" />
             <div class="captions v2">
-              <div class="logoslide"> <img src="img/slides/logoalaris.png" alt="Logo de Alaris"></div>
+              <div class="logoslide"> <img src="img/slides/logokodak.png" alt="Logo de Kodak"></div>
               <h4 class="subtitle"><a href="productos/i4000.html"> <span id="minus">i4650/i4850</span></a></h4>
               <p class="description">Digitalizar y administrar una montaña de documentos ahora es más sencillo. <br>Presentamos los nuevos scanners de la serie i4000 Plus de Kodak. .
               </p>
 
             </div> <!-- end captions -->
             <div class="slider-images">
-              <img src="img/slides/i4850.png" alt="Escaner Alaris i4850" />
+              <img src="img/slides/i4850.png" alt="Escaner Kodak i4850" />
             </div> <!-- end images -->
           </li>
 
@@ -351,8 +351,8 @@ header('Content-Type: text/html; charset=UTF-8'); ?>
 
       <ul class="thumbnails">
         <li class="clients-container">
-          <a href="alaris.html" class="thumbnail">
-            <img src="img/clients/client1.png" alt="Logo Alaris">
+          <a href="kodak.html" class="thumbnail">
+            <img src="img/clients/client1.png" alt="Logo Kodak">
           </a>
         </li>
 
