@@ -164,7 +164,7 @@ header('Content-Type: text/html; charset=UTF-8'); ?>
             <img src="img/slides/slide3.jpg" alt="Fondo de Escaner" />
             <div class="captions v3">
               <div class="logoslide"> <img src="img/slides/logobrother.png" alt="logo de Brother"></div>
-              <h4 class="subtitle"><a href="productos/ADS2800W.html">ADS2800W</a></h4>
+              <h4 class="subtitle"><a href="productos/ADS2800W.html">ADS2400W</a></h4>
               <p class="description">Pantalla táctil <br> Conectividad USB, ethernet y WIFI <br>
                 Su ágil conectividad y su entorno amigable para el operador lo hacen ideal <br>
                 para todo tipo de aplicaciones con una interfaz sumamente intuitiva.
