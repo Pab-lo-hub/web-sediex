@@ -93,7 +93,6 @@
 	    		      	<li><a href="../store.html">Scanners</a></li>
 	    		      	<li><a href="">Microfilm</a></li>
 	    		      	<li><a href="">Software</a></li>
-	    		      	<li><a href="">Insumos Scanners</a></li>
 	    		      </ul>
                   </li>
                  

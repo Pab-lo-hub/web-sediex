@@ -94,7 +94,7 @@ header('Content-Type: text/html; charset=UTF-8'); ?>
                   </li>
                   <li><a href="microfilm.html">Microfilm</a></li>
                   <li><a href="software.html">Software</a></li>
-                  <li><a href="insumosscanners.html">Insumos Scanners</a></li>
+                  
                   
                 </ul>
               </li>
